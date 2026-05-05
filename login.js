@@ -58,5 +58,7 @@
 //         passwordStrength.textContent = '';
 //     }
 
+
+
 //     form.classList.add('was-validated');
 // });
