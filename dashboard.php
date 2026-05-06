@@ -90,9 +90,6 @@ $result = mysqli_query($connection, $query);
                 </tr>";
                         }
 
-
-
-
                         ?>
 
                     </tbody>
